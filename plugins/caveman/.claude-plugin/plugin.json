@@ -1,0 +1,11 @@
+{
+  "name": "caveman",
+  "description": "Ultra-compressed communication mode. Cuts token usage ~75% by dropping filler, articles, and pleasantries while keeping full technical accuracy.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matt Pocock"
+  },
+  "homepage": "https://github.com/mattpocock/skills",
+  "repository": "https://github.com/mattpocock/skills",
+  "license": "MIT"
+}

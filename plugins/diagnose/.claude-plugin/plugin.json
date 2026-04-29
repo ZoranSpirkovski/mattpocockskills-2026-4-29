@@ -1,0 +1,11 @@
+{
+  "name": "diagnose",
+  "description": "Disciplined diagnosis loop for hard bugs and performance regressions. Reproduce, minimise, hypothesise, instrument, fix, regression-test.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matt Pocock"
+  },
+  "homepage": "https://github.com/mattpocock/skills",
+  "repository": "https://github.com/mattpocock/skills",
+  "license": "MIT"
+}

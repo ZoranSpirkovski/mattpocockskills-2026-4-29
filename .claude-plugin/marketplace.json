@@ -10,51 +10,51 @@
     },
     {
       "name": "diagnose",
-      "source": "./skills/engineering/diagnose"
+      "source": "./plugins/diagnose"
     },
     {
       "name": "grill-with-docs",
-      "source": "./skills/engineering/grill-with-docs"
+      "source": "./plugins/grill-with-docs"
     },
     {
       "name": "triage",
-      "source": "./skills/engineering/triage"
+      "source": "./plugins/triage"
     },
     {
       "name": "improve-codebase-architecture",
-      "source": "./skills/engineering/improve-codebase-architecture"
+      "source": "./plugins/improve-codebase-architecture"
     },
     {
       "name": "setup-matt-pocock-skills",
-      "source": "./skills/engineering/setup-matt-pocock-skills"
+      "source": "./plugins/setup-matt-pocock-skills"
     },
     {
       "name": "tdd",
-      "source": "./skills/engineering/tdd"
+      "source": "./plugins/tdd"
     },
     {
       "name": "to-issues",
-      "source": "./skills/engineering/to-issues"
+      "source": "./plugins/to-issues"
     },
     {
       "name": "to-prd",
-      "source": "./skills/engineering/to-prd"
+      "source": "./plugins/to-prd"
     },
     {
       "name": "zoom-out",
-      "source": "./skills/engineering/zoom-out"
+      "source": "./plugins/zoom-out"
     },
     {
       "name": "caveman",
-      "source": "./skills/productivity/caveman"
+      "source": "./plugins/caveman"
     },
     {
       "name": "grill-me",
-      "source": "./skills/productivity/grill-me"
+      "source": "./plugins/grill-me"
     },
     {
       "name": "write-a-skill",
-      "source": "./skills/productivity/write-a-skill"
+      "source": "./plugins/write-a-skill"
     }
   ]
 }
