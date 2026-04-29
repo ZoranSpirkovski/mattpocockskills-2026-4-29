@@ -1,0 +1,12 @@
+{
+  "name": "setup-matt-pocock-skills",
+  "description": "Sets up the per-repo configuration the engineering skills assume — issue tracker (GitHub or local markdown), triage label vocabulary, and domain doc layout.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matt Pocock"
+  },
+  "homepage": "https://github.com/mattpocock/skills",
+  "repository": "https://github.com/mattpocock/skills",
+  "license": "MIT",
+  "skills": ["."]
+}

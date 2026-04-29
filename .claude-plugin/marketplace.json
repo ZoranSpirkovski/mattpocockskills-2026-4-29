@@ -7,6 +7,54 @@
     {
       "name": "mattpocock-skills",
       "source": "."
+    },
+    {
+      "name": "diagnose",
+      "source": "./skills/engineering/diagnose"
+    },
+    {
+      "name": "grill-with-docs",
+      "source": "./skills/engineering/grill-with-docs"
+    },
+    {
+      "name": "triage",
+      "source": "./skills/engineering/triage"
+    },
+    {
+      "name": "improve-codebase-architecture",
+      "source": "./skills/engineering/improve-codebase-architecture"
+    },
+    {
+      "name": "setup-matt-pocock-skills",
+      "source": "./skills/engineering/setup-matt-pocock-skills"
+    },
+    {
+      "name": "tdd",
+      "source": "./skills/engineering/tdd"
+    },
+    {
+      "name": "to-issues",
+      "source": "./skills/engineering/to-issues"
+    },
+    {
+      "name": "to-prd",
+      "source": "./skills/engineering/to-prd"
+    },
+    {
+      "name": "zoom-out",
+      "source": "./skills/engineering/zoom-out"
+    },
+    {
+      "name": "caveman",
+      "source": "./skills/productivity/caveman"
+    },
+    {
+      "name": "grill-me",
+      "source": "./skills/productivity/grill-me"
+    },
+    {
+      "name": "write-a-skill",
+      "source": "./skills/productivity/write-a-skill"
     }
   ]
 }
