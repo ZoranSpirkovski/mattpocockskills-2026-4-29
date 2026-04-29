@@ -1,3 +1,38 @@
+> **Fork of [mattpocock/skills](https://github.com/mattpocock/skills)** — repackaged as a Claude Code plugin marketplace. All credit for the skills themselves goes to Matt Pocock.
+
+## Install via Claude Code marketplace
+
+```
+/plugin marketplace add ZoranSpirkovski/mattpocockskills-2026-4-29
+```
+
+Then install either the full bundle or individual skills:
+
+```
+/plugin install mattpocock-skills@mattpocock-skills
+```
+
+Or pick one at a time:
+
+```
+/plugin install diagnose@mattpocock-skills
+/plugin install grill-with-docs@mattpocock-skills
+/plugin install triage@mattpocock-skills
+/plugin install improve-codebase-architecture@mattpocock-skills
+/plugin install setup-matt-pocock-skills@mattpocock-skills
+/plugin install tdd@mattpocock-skills
+/plugin install to-issues@mattpocock-skills
+/plugin install to-prd@mattpocock-skills
+/plugin install zoom-out@mattpocock-skills
+/plugin install caveman@mattpocock-skills
+/plugin install grill-me@mattpocock-skills
+/plugin install write-a-skill@mattpocock-skills
+```
+
+After installing `setup-matt-pocock-skills`, run `/setup-matt-pocock-skills` once per repo to wire up the issue tracker, triage labels, and doc layout.
+
+---
+
 <p>
   <a href="https://www.aihero.dev/s/skills-newsletter">
     <picture>
