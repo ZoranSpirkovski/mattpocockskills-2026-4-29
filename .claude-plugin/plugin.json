@@ -1,5 +1,13 @@
 {
   "name": "mattpocock-skills",
+  "description": "Composable agent skills for real engineering work — grilling, triage, TDD, PRDs, and productivity rituals from Matt Pocock.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Matt Pocock"
+  },
+  "homepage": "https://github.com/mattpocock/skills",
+  "repository": "https://github.com/mattpocock/skills",
+  "license": "MIT",
   "skills": [
     "./skills/engineering/diagnose",
     "./skills/engineering/grill-with-docs",

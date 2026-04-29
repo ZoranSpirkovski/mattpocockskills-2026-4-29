@@ -1,0 +1,12 @@
+{
+  "name": "mattpocock-skills",
+  "owner": {
+    "name": "Matt Pocock"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": "."
+    }
+  ]
+}
