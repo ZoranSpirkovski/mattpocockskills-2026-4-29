@@ -49,6 +49,10 @@
       "source": "./plugins/prototype"
     },
     {
+      "name": "handoff",
+      "source": "./plugins/handoff"
+    },
+    {
       "name": "caveman",
       "source": "./plugins/caveman"
     },
