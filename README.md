@@ -24,6 +24,7 @@ Or pick one at a time:
 /plugin install to-issues@mattpocock-skills
 /plugin install to-prd@mattpocock-skills
 /plugin install zoom-out@mattpocock-skills
+/plugin install prototype@mattpocock-skills
 /plugin install caveman@mattpocock-skills
 /plugin install grill-me@mattpocock-skills
 /plugin install write-a-skill@mattpocock-skills
