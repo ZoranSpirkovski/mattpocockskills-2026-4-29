@@ -24,6 +24,7 @@ Or pick one at a time:
 /plugin install to-issues@mattpocock-skills
 /plugin install to-prd@mattpocock-skills
 /plugin install zoom-out@mattpocock-skills
+/plugin install prototype@mattpocock-skills
 /plugin install caveman@mattpocock-skills
 /plugin install grill-me@mattpocock-skills
 /plugin install write-a-skill@mattpocock-skills
@@ -188,6 +189,7 @@ Skills I use daily for code work.
 - **[to-issues](./skills/engineering/to-issues/SKILL.md)** — Break any plan, spec, or PRD into independently-grabbable GitHub issues using vertical slices.
 - **[to-prd](./skills/engineering/to-prd/SKILL.md)** — Turn the current conversation context into a PRD and submit it as a GitHub issue. No interview — just synthesizes what you've already discussed.
 - **[zoom-out](./skills/engineering/zoom-out/SKILL.md)** — Tell the agent to zoom out and give broader context or a higher-level perspective on an unfamiliar section of code.
+- **[prototype](./skills/engineering/prototype/SKILL.md)** — Build a throwaway prototype to flush out a design — either a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route.
 
 ### Productivity
 
